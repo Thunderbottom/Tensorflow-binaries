@@ -4,6 +4,11 @@
 
   If you want to compile your own binary for macOS, check out [compiling your own binary](#compiling-your-own-binary)
 
+## Versioning
+
+  Latest available tensorflow version: [![tensorflow version](https://badge.fury.io/gh/tensorflow%2Ftensorflow.svg)](https://github.com/tensorflow/tensorflow)
+
+
 ## Getting Started
 
   These instructions will get you a copy of the tensorflow running with SSE4.1, SSE4.2 and AVX enabled for optimizations.
@@ -70,9 +75,6 @@
   * [Bazel](https://bazel.build/versions/master/docs/install.html)
   * [Xcode CommandLineTools](https://developer.apple.com/xcode/)
 
-## Versioning
-
-  Latest available tensorflow version: ```1.3.0```
 
 ## Compiling your own binary
 
