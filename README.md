@@ -62,7 +62,7 @@
   The output should look somewhat like this:
 
   ```
-  1.2.0-rc0
+  1.3.0
   ```
 
 ## Built With
@@ -72,7 +72,7 @@
 
 ## Versioning
 
-  Latest available tensorflow version: ```1.2.0-rc0```
+  Latest available tensorflow version: ```1.3.0```
 
 ## Compiling your own binary
 
